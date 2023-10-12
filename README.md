@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/koreagdw@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+
+
+
 
 <!--
 **koreagdw/koreagdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
